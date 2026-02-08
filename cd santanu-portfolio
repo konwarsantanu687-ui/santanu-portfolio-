@@ -1,0 +1,4 @@
+cd santanu-portfolio
+git init
+git add .
+git commit -m "Initial commit"
